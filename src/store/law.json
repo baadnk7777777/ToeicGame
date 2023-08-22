@@ -1,0 +1,149 @@
+[
+  {
+    "No": 1,
+    "Word_Type": "v.",
+    "Eng_Word": "appeal",
+    "Thai_Word": "อุทธรณ์, ร้องขอ",
+    "Ex_Sentence": "The police have issued a new appeal for information."
+  },
+  {
+    "No": 2,
+    "Word_Type": "v.",
+    "Eng_Word": "claim",
+    "Thai_Word": "เรียกร้อง",
+    "Ex_Sentence": "If you’re still not satisfied, you may be able to claim compensation."
+  },
+  {
+    "No": 3,
+    "Word_Type": "n.",
+    "Eng_Word": "claimant",
+    "Thai_Word": "โจทก์, ผู้เรียกร้องสิทธิ",
+    "Ex_Sentence": "The company will settle the lawsuit and provide compensation for claimants."
+  },
+  {
+    "No": 4,
+    "Word_Type": "v.",
+    "Eng_Word": "compromise",
+    "Thai_Word": "ประนีประนอม",
+    "Ex_Sentence": "They compromised by alternating days on which each chose the activity."
+  },
+  {
+    "No": 5,
+    "Word_Type": "n.",
+    "Eng_Word": "conduct",
+    "Thai_Word": "ความประพฤติ",
+    "Ex_Sentence": "The Senator’s conduct is being investigated by the Ethics Committee."
+  },
+  {
+    "No": 6,
+    "Word_Type": "n.",
+    "Eng_Word": "coverage",
+    "Thai_Word": "ขอบเขตคุ้มครองในการประกันภัย",
+    "Ex_Sentence": "Make sure the policy gives adequate coverage against burglary."
+  },
+  {
+    "No": 7,
+    "Word_Type": "n.",
+    "Eng_Word": "damage",
+    "Thai_Word": "ความเสียหาย,\nการทำร้าย",
+    "Ex_Sentence": "The damage to his reputation was considerable."
+  },
+  {
+    "No": 8,
+    "Word_Type": "n.",
+    "Eng_Word": "decision",
+    "Thai_Word": "การตัดสิน, คำพิพากษา",
+    "Ex_Sentence": "The judges’ decision is final"
+  },
+  {
+    "No": 9,
+    "Word_Type": "n.",
+    "Eng_Word": "dispute",
+    "Thai_Word": "ข้อพิพาท, ความขัดแย้ง",
+    "Ex_Sentence": "The firm is involved in a legal dispute with a rival company."
+  },
+  {
+    "No": 10,
+    "Word_Type": "n.",
+    "Eng_Word": "evidence",
+    "Thai_Word": "หลักฐาน",
+    "Ex_Sentence": "Murrow’s evidence was enough to convict Hayes of murder."
+  },
+  {
+    "No": 11,
+    "Word_Type": "n.",
+    "Eng_Word": "force",
+    "Thai_Word": "กำลัง",
+    "Ex_Sentence": "The police used force to overpower the demonstrators."
+  },
+  {
+    "No": 12,
+    "Word_Type": "n.",
+    "Eng_Word": "fuel",
+    "Thai_Word": "เชื้อเพลิง",
+    "Ex_Sentence": "The fuel tank holds 14 gallons."
+  },
+  {
+    "No": 13,
+    "Word_Type": "v.",
+    "Eng_Word": "investigate",
+    "Thai_Word": "สืบสวน",
+    "Ex_Sentence": "We sent our reporter, John, to investigate."
+  },
+  {
+    "No": 14,
+    "Word_Type": "n.",
+    "Eng_Word": "investigation",
+    "Thai_Word": "การตรวจสอบหาความจริง",
+    "Ex_Sentence": "The investigation continued for nearly two years."
+  },
+  {
+    "No": 15,
+    "Word_Type": "n.",
+    "Eng_Word": "judge",
+    "Thai_Word": "ผู้พิพากษา",
+    "Ex_Sentence": "The judge advised the governor that the law violated the First Amendment rights of teachers."
+  },
+  {
+    "No": 16,
+    "Word_Type": "n.",
+    "Eng_Word": "justice",
+    "Thai_Word": "ความยุติธรรม",
+    "Ex_Sentence": "His people came to him demanding justice."
+  },
+  {
+    "No": 17,
+    "Word_Type": "n.",
+    "Eng_Word": "justification",
+    "Thai_Word": "การให้เหตุผล",
+    "Ex_Sentence": "There is no justification for holding her in jail."
+  },
+  {
+    "No": 18,
+    "Word_Type": "v.",
+    "Eng_Word": "misrepresent",
+    "Thai_Word": "บิดเบือนความจริง",
+    "Ex_Sentence": "He was found guilty of misrepresenting the true position of his accounts."
+  },
+  {
+    "No": 19,
+    "Word_Type": "v.",
+    "Eng_Word": "oblige",
+    "Thai_Word": "บังคับ",
+    "Ex_Sentence": "Circumstances had obliged him to sell the business."
+  },
+  {
+    "No": 20,
+    "Word_Type": "n.",
+    "Eng_Word": "patent",
+    "Thai_Word": "สิทธิบัตร",
+    "Ex_Sentence": "He applied for a patent for a new method of removing paint."
+  },
+  {
+    "No": 21,
+    "Word_Type": "v.",
+    "Eng_Word": "pollute",
+    "Thai_Word": "ก่อให้เกิดมลพิษ",
+    "Ex_Sentence": "The factory pollutes the air and water."
+  }
+]
